@@ -1,0 +1,2 @@
+boot/initramfs.img filter=lfs diff=lfs merge=lfs -text
+initramfs.tar.gz filter=lfs diff=lfs merge=lfs -text
