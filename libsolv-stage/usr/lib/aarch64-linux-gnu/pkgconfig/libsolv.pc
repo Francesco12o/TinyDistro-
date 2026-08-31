@@ -1,8 +1,0 @@
-libdir=/usr/lib/aarch64-linux-gnu
-includedir=/usr/include
-
-Name: libsolv
-Description: Library for solving packages
-Version: 0.7.39
-Libs: -L${libdir} -lsolv
-Cflags: -I${includedir}

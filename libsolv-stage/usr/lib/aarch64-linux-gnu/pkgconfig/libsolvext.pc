@@ -1,9 +1,0 @@
-libdir=/usr/lib/aarch64-linux-gnu
-includedir=/usr/include
-
-Name: libsolvext
-Description: Library for reading repositories
-Version: 0.7.39
-Requires: libsolv
-Libs: -L${libdir} -lsolvext
-Cflags: -I${includedir}
