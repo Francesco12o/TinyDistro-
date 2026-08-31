@@ -1,2 +1,7 @@
 
 TinyDistro-final.iso
+
+# Local package manager build trees
+opkg/
+libarchive/
+
